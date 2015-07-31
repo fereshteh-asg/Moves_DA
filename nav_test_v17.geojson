@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+[[2.451, 48.62], [2.455, 48.616], [2.43597561, 48.6045], [2.42895825228, 48.6160738673], [2.42170917971, 48.62262344], [2.42121306053, 48.6229358645], [2.41940014944, 48.6240649416], [2.40944832712, 48.6303801494], [2.4053692824, 48.6329549767], [2.39443947095, 48.6404378846], [2.39024335721, 48.6444013338], [2.3907330573, 48.6432164809], [2.38453469542, 48.6490854264], [2.38231393082, 48.6521322674], [2.36740814612, 48.6629560822], [2.33836290516, 48.6771858801], [2.3122052928, 48.6995835072], [2.3122052928, 48.6995835072], [2.30646087613, 48.7059770088], [2.31614766968, 48.7339207669], [2.31958909162, 48.7376731508], [2.3157913262, 48.7351734596], [2.32121342201, 48.7419097979], [2.34180944519, 48.7632427892], [2.34398816113, 48.769780095], [2.34426296389, 48.7708564116], [2.34410146744, 48.7923694566], [2.34407892711, 48.7982873916], [2.34407892711, 48.7982873916], [2.34410146744, 48.7923694566], [2.34251664604, 48.7991782063], [2.3366146096, 48.8152537104], [2.33639223615, 48.8158730525], [2.32962286167, 48.8187807748], [2.32888487693, 48.8193162652], [2.32126643111, 48.8209416192], [2.32126643111, 48.8209416192], [2.31446054579, 48.8223777822], [2.30407927553, 48.8248001119], [2.30354647331, 48.8249184266], [2.29902807531, 48.8259622904], [2.2928813298, 48.8275359949], [2.29239949175, 48.8277894683], [2.28471253874, 48.8302709971], [2.28023259429, 48.8319214613], [2.26670778942, 48.8358954987], [2.26942747665, 48.8388171222], [2.27187551422, 48.8401676174], [2.27609109442, 48.8449868451], [2.27724811787, 48.8450747838]]
+
+
+},
+        "properties": {
+           
+            "title": "SFR mapping 1",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#0000ff",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+  
+ [[2.2025463432, 48.7143857172]]
+ 
+       },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#118811",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+      [[2.20448174104, 48.7207756484]]
+       
+       },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-color": "#ff00ff",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    }
+    ,
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+         
+[[2.20448174104, 48.7207756484]]
+
+        },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-color": "#11ff11",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+  [2.20448174104, 48.7207756484]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "1",
+            "marker-color": "#008800",
+             "fill-opacity": 0.4
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+   [2.26321917337, 48.6250362727]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "2",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+  [2.45224108514, 48.6195609621]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "3",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+  [2.4451033134, 48.6211155838]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "4",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+      [2.44905617998, 48.6312355654]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "5",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+   
+    
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+        [[2.37562034655, 48.8299797017]]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#ff0000",
+             "fill-opacity": 0.5
+        }
+    },{ "type": "Feature",
+        "geometry": {
+           "type": "MultiPoint", 
+            "coordinates": 
+
+  [[2.450076,48.627833],[2.312734,48.722266],[2.346706,48.776197],[2.280334,48.845839],[2.300977,48.848310],[2.270120,48.846957],[2.280334,48.845839]]
+  
+      
+       },
+        "properties": {
+           
+            "title": "Cellular Antenna",
+           "marker-symbol": "star",
+            "marker-size": "medium",
+            "marker-color": "#f44",
+             "fill-opacity": 0.5
+        }
+    }
+
+    
+    
+
+    ]
+}
