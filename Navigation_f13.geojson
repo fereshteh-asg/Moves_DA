@@ -1,0 +1,183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+[[2.2116884, 48.7060013],  [2.237149, 48.7076819],  [2.2464627, 48.7178575],  [2.2582252, 48.7259001], [2.2738359, 48.7349975],  [2.287414, 48.7395933], [2.2965843, 48.7435241],  [2.3009024, 48.7551976],  [2.3132927, 48.780175], [2.3215943, 48.7932705], [2.3281001, 48.7986051],[2.3337534, 48.8078599], [2.3408362, 48.8153713], [2.3389831, 48.8205852], [2.3331828, 48.8330932], [2.3370615, 48.8399322], [2.3402926, 48.84638], [2.345551, 48.8534338],[2.3466372, 48.8623241],[2.34122314332, 48.8616370547], [2.3361468, 48.8623829], [2.3298436, 48.8643585], [2.322138,48.8664075],[2.3139517, 48.867759],   [ 2.3101131,48.8689763],   [2.3006256, 48.8649686], [2.2937783, 48.8646725]]
+},
+        "properties": {
+           
+            "title": "SFR mapping 1",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#0000ff",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+[[2.20102805415, 48.713439826], [2.20448174104, 48.7207756484], [2.20448174104, 48.7207756484], [2.2199861867, 48.7190385758], [2.22238414224, 48.7196478782], [2.22510576476, 48.7199129372], [2.22637510253, 48.7201370462], [2.24665234123, 48.7234239118], [2.2450981018, 48.7249072054], [2.24611026972, 48.7234744568], [2.24688529326, 48.7225888774], [2.2485244632, 48.7208632366], [2.24886477538, 48.7200558568], [2.24947808, 48.7188859074], [2.2464627, 48.7178575], [2.2582252, 48.7259001], [2.2582252, 48.7259001], [2.2738359, 48.7349975], [2.287414, 48.7395933], [2.2965843, 48.7435241], [2.3009024, 48.7551976], [2.3132927, 48.780175], [2.3132927, 48.780175], [2.3215943, 48.7932705], [2.3281001, 48.7986051], [2.3337534, 48.8078599], [2.3408362, 48.8153713], [2.3389831, 48.8205852], [2.3331828, 48.8330932], [2.3370615, 48.8399322], [2.3402926, 48.84638], [2.345551, 48.8534338], [2.3466372, 48.8623241], [2.3466372, 48.8623241], [2.345551, 48.8534338], [2.3261282, 48.860522], [2.3146743, 48.8627572], [2.3009444, 48.8626123], [2.3009444, 48.8626123], [2.30169396265, 48.8624876518], [2.30155644965, 48.8642855505]]
+
+       },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#118811",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+    [[2.19235748098, 48.7036850055]]
+       
+       },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-color": "#ff00ff",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    }
+    ,
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+         
+[[2.20448174104, 48.7207756484]]
+
+        },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-color": "#11ff11",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+ [2.30793318746, 48.8106931127]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "1",
+            "marker-color": "#008800",
+             "fill-opacity": 0.4
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+    [2.3137075, 48.8678333]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "2",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+ [2.3053664, 48.9038952]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "3",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+    [2.2948689, 48.9162246]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "4",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+   [2.3094799871, 48.9160114076]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "5",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+   
+    
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+        [[2.37562034655, 48.8299797017]]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#ff0000",
+             "fill-opacity": 0.5
+        }
+    },{ "type": "Feature",
+        "geometry": {
+           "type": "MultiPoint", 
+            "coordinates": 
+
+ [[2.204075,48.714329],[2.212540,48.724450],[2.266877,48.727865],[2.314404,48.786307],[2.347811,48.861625],[2.301170,48.864200],[2.303405,48.861621]]
+ 
+      
+       },
+        "properties": {
+           
+            "title": "Cellular Antenna",
+           "marker-symbol": "star",
+            "marker-size": "medium",
+            "marker-color": "#f44",
+             "fill-opacity": 0.5
+        }
+    }
+
+    
+    
+
+    ]
+}
