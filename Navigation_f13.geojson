@@ -141,7 +141,36 @@
              "fill-opacity": 0.5
         }
     },
-   
+    { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+    [2.3009444, 48.8626123]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "6",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
+     { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+    [2.30155644965, 48.8642855505]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "7",
+            "marker-color": "#008800",
+             "fill-opacity": 0.5
+        }
+    },
     
     { "type": "Feature",
         "geometry": {
