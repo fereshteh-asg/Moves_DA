@@ -203,7 +203,8 @@
             "marker-color": "#f44",
              "fill-opacity": 0.5
         }
-    }
+    },
+    {'geometry': {'type': 'Point', 'coordinates': [2.20102805415, 48.713439826]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.20448174104, 48.7207756484]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.2582252, 48.7259001]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.3132927, 48.780175]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.3466372, 48.8623241]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.3009444, 48.8626123]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}, {'geometry': {'type': 'Point', 'coordinates': [2.30155644965, 48.8642855505]}, 'type': 'Feature', 'properties': {'fill-opacity': 0.4, 'marker-size': 'medium', 'marker-color': '#880022', 'title': 'skeleton'}}
 
     
     
