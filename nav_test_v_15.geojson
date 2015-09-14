@@ -31,7 +31,7 @@
             "title": "SFR mapping 2",
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#118811",
+            "marker-color": "#11dd11",
              "fill-opacity": 0.5
         }
     },
@@ -67,81 +67,6 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
              "fill-opacity": 0.8
-        }
-    },
-    { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates":   
-[2.19235748098, 48.7036850055]
-        },
-        "properties": {
-           
-            "title": "GPS mappping result",
-            "marker-size": "medium",
-            "marker-symbol": "1",
-            "marker-color": "#008800",
-             "fill-opacity": 0.4
-        }
-    },
-    { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates":   
-   [2.20923338955, 48.7496529822]
-        },
-        "properties": {
-           
-            "title": "GPS mappping result",
-            "marker-size": "medium",
-            "marker-symbol": "2",
-            "marker-color": "#008800",
-             "fill-opacity": 0.5
-        }
-    },
-    { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates":   
- [2.21326920815, 48.8117445425]
-        },
-        "properties": {
-           
-            "title": "GPS mappping result",
-            "marker-size": "medium",
-            "marker-symbol": "3",
-            "marker-color": "#008800",
-             "fill-opacity": 0.5
-        }
-    },
-    { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates":   
-    [2.2783179, 48.8463524]
-        },
-        "properties": {
-           
-            "title": "GPS mappping result",
-            "marker-size": "medium",
-            "marker-symbol": "4",
-            "marker-color": "#008800",
-             "fill-opacity": 0.5
-        }
-    },
-    { "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates":   
-   [2.2783179, 48.8463524]
-        },
-        "properties": {
-           
-            "title": "GPS mappping result",
-            "marker-size": "medium",
-            "marker-symbol": "5",
-            "marker-color": "#008800",
-             "fill-opacity": 0.5
         }
     },
    
