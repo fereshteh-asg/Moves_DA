@@ -90,8 +90,7 @@
         }
     },
    
-    
-    { "type": "Feature",
+   { "type": "Feature",
         "geometry": {
             "type": "LineString",
             "coordinates":   
@@ -104,6 +103,24 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#ff0000",
+             "fill-opacity": 0.5
+        }
+    },
+    
+    
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+     [[2.2380809996, 48.8941570311],[2.2373889,48.8924772], [2.2951493,48.8740658],[2.3295277,48.8731477],[2.3465444,48.8620226],[2.3740909,48.8437844],[ 2.3744523,48.8435226],[2.4264134, 48.8019826],[2.4231542024, 48.795]]
+     
+        },
+        "properties": {
+           
+            "title": "s_7",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#ffff00",
              "fill-opacity": 0.5
         }
     },{ "type": "Feature",
