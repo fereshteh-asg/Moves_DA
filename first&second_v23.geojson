@@ -32,8 +32,8 @@
             "title": "18sept",
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "228811",
-             "fill-opacity": 0.8
+            "marker-color": "#dd8822",
+             "fill-opacity": 0.6
         }
     },
     { "type": "Feature",
