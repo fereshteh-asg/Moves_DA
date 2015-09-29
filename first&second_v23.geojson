@@ -33,7 +33,7 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "228811",
-             "fill-opacity": 1
+             "fill-opacity": 0.8
         }
     },
     { "type": "Feature",
