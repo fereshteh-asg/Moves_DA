@@ -65,7 +65,7 @@
         "properties": {
            
             "title": "skeleton",
-            "marker-color": "#ddff11",
+            "marker-color": "#111111",
             "marker-size": "medium",
             "marker-symbol": "bus",
              "fill-opacity": 0.8
