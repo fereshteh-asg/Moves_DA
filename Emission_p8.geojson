@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+[[2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.2116884, 48.7060013], [2.237149, 48.7076819], [2.237149, 48.7076819], [2.2464627, 48.7178575], [2.2464627, 48.7178575], [2.2582252, 48.7259001], [2.2582252, 48.7259001], [2.2582252, 48.7259001], [2.2738359, 48.7349975], [2.2738359, 48.7349975], [2.287414, 48.7395933], [2.287414, 48.7395933], [2.2965843, 48.7435241], [2.2965843, 48.7435241], [2.3009024, 48.7551976], [2.3009024, 48.7551976], [2.3132927, 48.780175], [2.3132927, 48.780175], [2.3132927, 48.780175], [2.3215943, 48.7932705], [2.3215943, 48.7932705], [2.3281001, 48.7986051], [2.3281001, 48.7986051], [2.3337534, 48.8078599], [2.3337534, 48.8078599], [2.3408362, 48.8153713], [2.3408362, 48.8153713], [2.3389831, 48.8205852], [2.3389831, 48.8205852], [2.3331828, 48.8330932], [2.3370615, 48.8399322], [2.3370615, 48.8399322], [2.3402926, 48.84638], [2.345551, 48.8534338], [2.3466372, 48.8623241], [2.3466372, 48.8623241], [2.3466372, 48.8623241]]
+
+},
+        "properties": {
+           
+            "title": "Real trajectory",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#0000ff",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+  
+[[2.2967949644,48.8023626595]]
+
+       },
+        "properties": {
+           
+            "title": "4_oct",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#111111",
+             "fill-opacity": 0.5
+        }
+    },
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+[[2.2996332582,48.8108246559]]
+       
+       },
+        "properties": {
+           
+            "title": "6_september",
+            "marker-color": "#ff0066",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    }
+    ,
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": 
+         
+[[2.20448174104, 48.7207756484]]
+
+
+        },
+        "properties": {
+           
+            "title": "SFR mapping 2",
+            "marker-color": "#11ff11",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+             "fill-opacity": 0.8
+        }
+    },
+  
+  
+   
+    
+    { "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates":   
+      [[2.20102805415, 48.713439826]]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#ff0000",
+             "fill-opacity": 0.5
+        }
+    },{ "type": "Feature",
+        "geometry": {
+           "type": "MultiPoint", 
+            "coordinates": 
+[[2.221081,48.701988],[2.241434,48.710994],[2.339310,48.820508],[2.347183,48.855217]]
+
+       },
+        "properties": {
+           
+            "title": "Cellular Antenna",
+           "marker-symbol": "star",
+            "marker-size": "medium",
+            "marker-color": "#f44",
+             "fill-opacity": 0.5
+        }
+    }
+
+    
+    
+
+    ]
+}
