@@ -63,7 +63,7 @@
         "properties": {
            
             "title": "RAIL",
-            "marker-color": "#ddff11",
+            "marker-color": "#ff1111",
             "marker-size": "medium",
             "marker-symbol": "bus",
              "fill-opacity": 0.8
@@ -85,7 +85,7 @@
             "title": "ROAD",
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#111111",
+            "marker-color": "#11ff11",
              "fill-opacity": 0.5
         }
     },{ "type": "Feature",
