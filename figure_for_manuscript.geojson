@@ -45,7 +45,7 @@
         "properties": {
            
             "title": "SFR mapping 2",
-            "marker-color": "#00dd33",
+            "marker-color": "#009933",
             "marker-size": "medium",
             "stroke-width":"4",
             "marker-symbol": "bus",
