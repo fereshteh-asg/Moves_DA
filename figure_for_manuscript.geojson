@@ -30,7 +30,6 @@
             "title": "SFR mapping 2",
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#000000",
              "stroke-width":"0.5",
              "fill-opacity": 0.9
         }
