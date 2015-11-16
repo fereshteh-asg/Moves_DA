@@ -31,7 +31,7 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#ee8800",
-             "stroke-width":"4",
+             "stroke-width":"2",
              "fill-opacity": 0.9
         }
     },
@@ -47,9 +47,9 @@
             "title": "SFR mapping 2",
             "marker-color": "#dd0033",
             "marker-size": "medium",
-            "stroke-width":"4",
+            "stroke-width":"5",
             "marker-symbol": "bus",
-             "fill-opacity": 0.8
+             "fill-opacity": 1.0
         }
     }
     ,
