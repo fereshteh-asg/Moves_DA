@@ -32,6 +32,21 @@
              "fill-opacity": 0.5
         }
     },
+     { "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":   
+        [2.3727163,48.8457111]
+        },
+        "properties": {
+           
+            "title": "GPS mappping result",
+            "marker-size": "small",
+
+            "marker-color": "#dd0033",
+             "fill-opacity": 0.5
+        }
+    },
     
     { "type": "Feature",
         "geometry": {
