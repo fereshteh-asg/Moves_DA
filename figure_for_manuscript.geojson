@@ -61,10 +61,10 @@
         "properties": {
            
             "title": "SFR mapping 2",
-            "marker-color": "#11ff11",
+            "marker-color": "#11ffff",
             "marker-size": "medium",
             "marker-symbol": "bus",
-             "fill-opacity": 0.8
+             "fill-opacity": 1.0
         }
     },
     { "type": "Feature",
