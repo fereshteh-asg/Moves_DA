@@ -27,8 +27,8 @@
            
             "title": "GPS mappping result",
             "marker-size": "medium",
-            "marker-symbol": "A",
-            "marker-color": "#008800",
+            "marker-symbol": "star",
+            "marker-color": "#ee8800",
              "fill-opacity": 0.5
         }
     },
