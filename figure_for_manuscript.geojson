@@ -42,7 +42,7 @@
            
             "title": "GPS mappping result",
             "marker-size": "small",
-
+            "marker-symbol": "rail-metro",
             "marker-color": "#dd0033",
              "fill-opacity": 0.5
         }
