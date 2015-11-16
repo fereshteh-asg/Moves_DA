@@ -21,13 +21,13 @@
         "geometry": {
             "type": "Point",
             "coordinates":   
-      [2.377,48.8465]
+        [2.374,48.8478]
         },
         "properties": {
            
             "title": "GPS mappping result",
             "marker-size": "medium",
-            "marker-symbol": "5",
+            "marker-symbol": "A",
             "marker-color": "#008800",
              "fill-opacity": 0.5
         }
