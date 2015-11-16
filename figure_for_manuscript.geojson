@@ -29,9 +29,9 @@
             "title": "SFR mapping 2",
             "marker-size": "medium",
             "marker-symbol": "bus",
-            "marker-color": "#ff0011",
+            "marker-color": "#ff0012",
              "stroke-width":"4",
-             "fill-opacity": 1
+             "fill-opacity": 0.5
         }
     },
     { "type": "Feature",
