@@ -62,7 +62,7 @@
             "marker-size": "medium",
             "marker-symbol": "bus",
             "marker-color": "#ee8800",
-             "stroke-width":"3",
+             "stroke-width":"5",
              "fill-opacity": 0.4
         }
     },
