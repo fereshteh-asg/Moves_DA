@@ -16,7 +16,7 @@
             "marker-symbol": "bus",
             "marker-color": "#0000ff",
             "stroke-width":"3",
-             "fill-opacity": 0.5
+             "fill-opacity": 0.8
         }
     },
     { "type": "Feature",
@@ -35,7 +35,7 @@
             "marker-symbol": "bus",
             "marker-color": "#ff1133",
             "stroke-width":"3",
-             "fill-opacity": 0.5
+             "fill-opacity": 0.8
         }
     },
     { "type": "Feature",
